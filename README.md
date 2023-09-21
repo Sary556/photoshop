@@ -19,4 +19,8 @@
 - ctrl + shift + g > 그룹풀기
 
 # trim > 사진 주위에 투명한 부분 정리하여 사진크기에 맞춰 짜르기
-- image > trim 
+- image > trim
+
+# 화면 이동 > space bar : 꾹눌러서 화면을 드래그 
+
+# 선택영역(Marquee tool) 없애기 > ctrl + D
