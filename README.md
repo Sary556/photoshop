@@ -24,3 +24,9 @@
 # 화면 이동 > space bar : 꾹눌러서 화면을 드래그 
 
 # 선택영역(Marquee tool) 없애기 > ctrl + D
+
+C:\Users\GG\Desktop\레이어마스크.png
+
+# alt + 레이어마스크를 클릭하면 반전으로 나오고
+# 이미 만들어진 레이어마스크의 칼라를 반전시키려면 ctrl+i
+
